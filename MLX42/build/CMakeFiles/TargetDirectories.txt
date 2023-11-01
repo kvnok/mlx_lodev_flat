@@ -1,0 +1,7 @@
+/home/kkroon/stuff3D/mlx_lodev_flat/MLX42/build/CMakeFiles/mlx42.dir
+/home/kkroon/stuff3D/mlx_lodev_flat/MLX42/build/CMakeFiles/edit_cache.dir
+/home/kkroon/stuff3D/mlx_lodev_flat/MLX42/build/CMakeFiles/rebuild_cache.dir
+/home/kkroon/stuff3D/mlx_lodev_flat/MLX42/build/CMakeFiles/list_install_components.dir
+/home/kkroon/stuff3D/mlx_lodev_flat/MLX42/build/CMakeFiles/install.dir
+/home/kkroon/stuff3D/mlx_lodev_flat/MLX42/build/CMakeFiles/install/local.dir
+/home/kkroon/stuff3D/mlx_lodev_flat/MLX42/build/CMakeFiles/install/strip.dir
